@@ -1,3 +1,5 @@
+This is my fork of QuantumFactal's highly instructive Data-Structure-Zoo. I plan to use as an exercise in porting to Python3 and also enhance the series by providing online examples via [repl.it](https://repl.it/).
+
 # Data-Structures-Zoo
 An educational repo for students looking to learn about data structures in Python.
 While this is based on a Java class, this resource will be using Python idioms. Currently 70% Done!
